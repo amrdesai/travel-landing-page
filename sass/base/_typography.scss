@@ -45,6 +45,7 @@ body {
         $color-primary-dark
     );
     display: inline-block;
+    -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
     letter-spacing: 2px;
